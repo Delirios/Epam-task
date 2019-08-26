@@ -1,0 +1,11 @@
+C:\Git_project\Epam-task\Epam_tasks_3\bin\Debug\netcoreapp2.1\Epam_tasks_3.deps.json
+C:\Git_project\Epam-task\Epam_tasks_3\bin\Debug\netcoreapp2.1\Epam_tasks_3.runtimeconfig.json
+C:\Git_project\Epam-task\Epam_tasks_3\bin\Debug\netcoreapp2.1\Epam_tasks_3.runtimeconfig.dev.json
+C:\Git_project\Epam-task\Epam_tasks_3\bin\Debug\netcoreapp2.1\Epam_tasks_3.dll
+C:\Git_project\Epam-task\Epam_tasks_3\bin\Debug\netcoreapp2.1\Epam_tasks_3.pdb
+C:\Git_project\Epam-task\Epam_tasks_3\obj\Debug\netcoreapp2.1\Epam_tasks_3.csprojAssemblyReference.cache
+C:\Git_project\Epam-task\Epam_tasks_3\obj\Debug\netcoreapp2.1\Epam_tasks_3.csproj.CoreCompileInputs.cache
+C:\Git_project\Epam-task\Epam_tasks_3\obj\Debug\netcoreapp2.1\Epam_tasks_3.AssemblyInfoInputs.cache
+C:\Git_project\Epam-task\Epam_tasks_3\obj\Debug\netcoreapp2.1\Epam_tasks_3.AssemblyInfo.cs
+C:\Git_project\Epam-task\Epam_tasks_3\obj\Debug\netcoreapp2.1\Epam_tasks_3.dll
+C:\Git_project\Epam-task\Epam_tasks_3\obj\Debug\netcoreapp2.1\Epam_tasks_3.pdb
