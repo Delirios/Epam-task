@@ -26,7 +26,7 @@ namespace Epam_tasks_3
 
             foreach (var item in people)
             {
-                Console.Write($"Name = {item.Name},   Age = {item.Age},  Phone numbers:   ");
+                Console.Write($"Name = {item.Name},   Age = {item.Age},  Phone numbers:  ");
                 foreach (var numbers in item.PhoneNumbers)
                 {
                     Console.Write($"{numbers} ");
